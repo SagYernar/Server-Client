@@ -1,0 +1,8 @@
+C:\Users\СагадиевЕ\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\СагадиевЕ\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\СагадиевЕ\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\СагадиевЕ\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\СагадиевЕ\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\СагадиевЕ\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\СагадиевЕ\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\СагадиевЕ\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
